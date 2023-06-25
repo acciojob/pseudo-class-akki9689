@@ -1,9 +1,9 @@
 /*  your css code here. If applicable */
-main::before{
+.box::before{
     content:"Before Element ";
     color: red;
 }
-main::after{
+.box::after{
     content:" After Element";
     color: red;
 }
